@@ -1,0 +1,7 @@
+﻿Nombre,Cantidad,Componente
+"D1",1,"Amarillo LED"
+"U1",1," Arduino Uno R3"
+"R1",1,"220 Ω Resistencia"
+"S1",1," Pulsador"
+"R2",1,"10 kΩ Resistencia"
+"Rpot1",1,"10 kΩ Potenciómetro"
